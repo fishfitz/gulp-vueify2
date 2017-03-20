@@ -1,0 +1,23 @@
+{
+  "name": "gulp-vueify2",
+  "version": "0.0.1",
+  "description": "Compile .vue files using vueify, with Vue2 and extractCSS support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "vueify",
+    "vue",
+    "vuejs"
+  ],
+  "author": "Cobaltway",
+  "repository": "cobaltway/gulp-vueify2",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1",
+    "vueify": "^9.4.1"
+  }
+}
