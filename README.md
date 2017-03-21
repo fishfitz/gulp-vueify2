@@ -1,7 +1,7 @@
 # gulp-vueify2
 Compile `*.vue` component files using vueify **without** Browserify. Can be usefull for Electron app and server-side rendering (I wrote it primarily for the second case).
 
-Use code from the package [gulp-vueify](https://github.com/Zahajki/gulp-vueify), written by Zahajki, which seem abandoned. Main differences with the mentionned package are support for Vue2 and out of the box CSS extraction.
+Use code from the package [gulp-vueify](https://github.com/Zahajki/gulp-vueify), written by Zahajki, which seems abandoned. Main differences with the mentionned package are support for Vue2 and out of the box CSS extraction.
 
 ## Installation
 ```bash
