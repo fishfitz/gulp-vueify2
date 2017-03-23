@@ -1,6 +1,6 @@
 {
   "name": "gulp-vueify2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compile .vue files using vueify, with Vue2 and extractCSS support",
   "main": "index.js",
   "scripts": {
